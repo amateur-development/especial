@@ -30,7 +30,7 @@
                     <div class="col-lg-12">
                         <div class="card">
                             <div class="card-header">
-                                <i class="fa fa-align-justify"></i> Simple Table
+                                <i class="fa fa-align-justify"></i> 商品列表 <a class="btn btn-sm btn-primary" style="color: white" href="{{route('admin.goods.edit')}}"> 新增顶级分类</a>
                             </div>
                             <div class="card-block">
                                 <table class="table">
